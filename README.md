@@ -1,5 +1,5 @@
 # naperPlaidy
-To see this code in action, simply visit:
+To see this code in action, visit:
 https://simplserve.com/plaidypus
 
 Some notes on this code:
